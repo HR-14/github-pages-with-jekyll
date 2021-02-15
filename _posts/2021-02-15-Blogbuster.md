@@ -1,3 +1,7 @@
+---
+title: "Geothermal energy and Reservoir Engineering basics"
+date: 2021-02-15
+---
 Geothermal energy is the energy stored in the center of our planet Earth.
 It is viable to utilize this type of energy where the solid layer or Earth crust is thinner.
 That is why you can find geothermal exploitations near the tectonic plates borders and near volcanic sites.
